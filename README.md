@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![python](https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=pyg)
+![python](https://img.shields.io/badge/-Python-8B0000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
