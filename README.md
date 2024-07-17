@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![python](https://img.shields.io/badge/-Python-8B0000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
-![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
-![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
-![Docker](https://img.shields.io/badge/-Docker-69b5cc?style=for-the-badge&logo=docker)
-![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-69b5cc?style=for-the-badge&logo=apacheairflow)
+![python](https://img.shields.io/badge/-Python-DCDCDC?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-PostgreSQL-DCDCDC?style=for-the-badge&logo=postgreSQL)
+![JupiterNotebook](https://img.shields.io/badge/-Jupyter-DCDCDC?style=for-the-badge&logo=jupyter)
+![Tableau](https://img.shields.io/badge/-Tableau-DCDCDC?style=for-the-badge&logo=tableau)
+
+
+### Follow Me \ Связаться со мной
+[![Gmail](https://img.shields.io/badge/-mail-DCDCDC?style=for-the-badge&logo=Gmail)](mailto:kolobashkin.nikita@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-DCDCDC?style=for-the-badge&logo=Telegram)](https://t.me/Klbshknnk)
