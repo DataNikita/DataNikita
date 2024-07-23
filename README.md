@@ -20,5 +20,5 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-DCDCDC?style=for-the-badge&logo=tableau)
 
 ## Для связи со мной
-[![Gmail](https://img.shields.io/badge/-mail-DCDCDC?style=for-the-badge&logo=Gmail)](mailto:kolobashkin.nikita@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mail-DCDCDC?style=for-the-badge&logo=Gmail)](mailto:nikita.kolobashkin@yandex.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-DCDCDC?style=for-the-badge&logo=Telegram)](https://t.me/Klbshknnk)
